@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URI1052", "URI1052\URI1052.csproj", "{6AB0D5B5-1F8B-4F59-A82C-18F7E1B716D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AB0D5B5-1F8B-4F59-A82C-18F7E1B716D1}.Debug|x86.ActiveCfg = Debug|x86
+		{6AB0D5B5-1F8B-4F59-A82C-18F7E1B716D1}.Debug|x86.Build.0 = Debug|x86
+		{6AB0D5B5-1F8B-4F59-A82C-18F7E1B716D1}.Release|x86.ActiveCfg = Release|x86
+		{6AB0D5B5-1F8B-4F59-A82C-18F7E1B716D1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
