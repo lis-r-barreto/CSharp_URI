@@ -1,0 +1,6 @@
+/home/lbarreto/Projects/URI1072/URI1072/bin/Debug/URI1072.exe
+/home/lbarreto/Projects/URI1072/URI1072/bin/Debug/URI1072.pdb
+/home/lbarreto/Projects/URI1072/URI1072/obj/x86/Debug/URI1072.csprojAssemblyReference.cache
+/home/lbarreto/Projects/URI1072/URI1072/obj/x86/Debug/URI1072.csproj.CoreCompileInputs.cache
+/home/lbarreto/Projects/URI1072/URI1072/obj/x86/Debug/URI1072.exe
+/home/lbarreto/Projects/URI1072/URI1072/obj/x86/Debug/URI1072.pdb

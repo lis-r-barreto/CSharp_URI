@@ -1,0 +1,6 @@
+/home/lbarreto/Projects/URI1080/URI1080/bin/Debug/URI1080.exe
+/home/lbarreto/Projects/URI1080/URI1080/bin/Debug/URI1080.pdb
+/home/lbarreto/Projects/URI1080/URI1080/obj/x86/Debug/URI1080.csprojAssemblyReference.cache
+/home/lbarreto/Projects/URI1080/URI1080/obj/x86/Debug/URI1080.csproj.CoreCompileInputs.cache
+/home/lbarreto/Projects/URI1080/URI1080/obj/x86/Debug/URI1080.exe
+/home/lbarreto/Projects/URI1080/URI1080/obj/x86/Debug/URI1080.pdb
