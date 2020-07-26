@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="1000" height="243" src="https://github.com/lis-r-barreto/CSharp_URI/blob/master/cover.png">
+</p>
+
+
 ## Sequencial
 
 URI1001 - Extremamente Básico
